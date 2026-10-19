@@ -28,3 +28,12 @@ I finished most of the arm and leg added fake screws for detail and other shapes
 
 
 **Total time spent: 37 minutes**
+
+# October 19: Journal-3 R2-D2 face, wires, stomach, colours and details
+
+I added wires to the hand, added door like thing to the feet/foot also added colors to the full thing using planes, it was pretty anoying to colour the screw parts as there were multiple faces because of fillets, anyways I added a fillet to the bottom and experimented with colors to get the closest color possible and made the other hand, I also added some small details to the face like the eye and red dot etc, while making the wires the sweep feature wasn't working as it was unable to create it at the specific curve and I had to re-do it and then rotate it with move feature to make it look like a wire. I tried using auto constrain but that only worked once as the second time I tires using it there were too many lines which could crash fusion. this is my timelapse: https://lapse.hackclub.com/timelapse/ly12o1BAJjMC
+
+<img width="842" height="457" alt="Screenshot 2026-10-19 153924" src="https://github.com/user-attachments/assets/5c305bd4-779f-45fb-95f7-8f304d676a6c" />
+<img width="712" height="582" alt="Screenshot 2026-10-19 153936" src="https://github.com/user-attachments/assets/8d254d87-da84-456d-b1b9-d3db1519b875" />
+
+**Total time spent: 1 hour 5 minutes**

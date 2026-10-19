@@ -19,3 +19,12 @@ I started with making R2-D2 cylinder shape and sphere for the main body. Next I 
 
 **Total time spent: 55 minutes**
 
+# October 19: Journal-2 R2-D2 legs and arms with detail
+
+I finished most of the arm and leg added fake screws for detail and other shapes like a cuboid but with a curved top part and a cutout on the leg for it to hold, move and stand on.(looks) this is my lapse: https://hackatime.hackclub.com/my/projects/X-wing%20fighter so that i don't get time deducted without a proper reason.
+
+<img width="876" height="431" alt="Screenshot 2026-10-19 132601" src="https://github.com/user-attachments/assets/38cc8424-d2f2-4d2f-b154-90dfdcf76802" />
+<img width="671" height="461" alt="Screenshot 2026-10-19 132613" src="https://github.com/user-attachments/assets/c5851b0e-b052-4528-824b-f50256dcdc6e" />
+
+
+**Total time spent: 37 minutes**

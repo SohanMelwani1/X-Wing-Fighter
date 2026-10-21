@@ -37,3 +37,11 @@ I added wires to the hand, added door like thing to the feet/foot also added col
 <img width="712" height="582" alt="Screenshot 2026-10-19 153936" src="https://github.com/user-attachments/assets/8d254d87-da84-456d-b1b9-d3db1519b875" />
 
 **Total time spent: 1 hour 5 minutes**
+
+# October 21: Journal-3 R2-D2 paint and seperation parts with cutouts
+Today I started by making making a construction plane on the cylinder part of R2-D2 and then making an offset in the circle instead of using the emboss feature since when using the emboss feature it doesn't work realy good with fully circular shapes as it kind of projects it from the sketch anyways, Then i extruded a rectangular curve from it and added a cutout in the center, i did this again but different size. Later I made the painitng part or thing on it's neck (the cool design thing) and made one upside down, Then I made cutouts on the side of R2-D2, While making all of this the colors of 4 planes kept disapearing IDK why, but I have video of it going of. it looks much more realistic now however the top part is supposed to by blue also, i'll figure that out tmr. this is the timelapse: https://lapse.hackclub.com/timelapse/5ce6dSRp2Dqe
+
+<img width="541" height="210" alt="image" src="https://github.com/user-attachments/assets/bddfcec9-5553-4658-9208-50dc2528c997" />
+<img width="583" height="513" alt="image" src="https://github.com/user-attachments/assets/b4070026-6e77-4a93-9568-726fe9c5b8f2" />
+
+**Total time spent: 40 minutes**
